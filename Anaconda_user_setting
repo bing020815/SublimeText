@@ -1,0 +1,17 @@
+{
+    "auto_formatting": true,
+    "autoformat_ignore":
+    [
+    ],
+    "pep8_ignore":
+    [
+        "E501"
+    ],
+    "anaconda_linter_underlines": true,
+    "anaconda_linter_phantoms": true,
+    "anaconda_linter_mark_style": "none",
+    "anaconda_linter_show_errors_on_save":true,
+    "display_signatures": false,
+    "disable_anaconda_completion": true,
+    "python_interpreter": "/usr/local/bin/python3"
+}
