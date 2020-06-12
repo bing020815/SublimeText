@@ -10,3 +10,4 @@ Sublime Text setting
   + [Anaconda](https://packagecontrol.io/packages/Anaconda)
   + [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended#markdown-enhancements)
   + [Kite](https://kite.com/)
+  + [Jekyll](https://packagecontrol.io/packages/Jekyll)
