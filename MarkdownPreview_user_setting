@@ -1,5 +1,6 @@
 {
 	"browser": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
-	"enabled_parsers": ["github"],
-    	"github_mode": "gfm",
+	"enabled_parsers": ["markdown", "github", "gitlab", "multimarkdown"],
+    "github_mode": "gfm",
 }
+
