@@ -6,6 +6,7 @@ Sublime Text setting
   + [GitGutter](https://packagecontrol.io/packages/GitGutter)
   + [Markdown Preview](https://packagecontrol.io/packages/MarkdownPreview)
   + [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
+  + [Predawn](https://packagecontrol.io/packages/Predawn)
   + [Side​Bar​Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
   + [Anaconda](https://packagecontrol.io/packages/Anaconda)
   + [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended#markdown-enhancements)
@@ -13,7 +14,10 @@ Sublime Text setting
   + [Jekyll](https://packagecontrol.io/packages/Jekyll)
 
 # Operation 
-  + `Control + shift + P` to call package
+  + Press `Ctrl + shift + P` to call package
   + Run Python Program (.py)
     - Press `Ctrl + Shift + B` and select the build system
-    - Press `Ctrl + B` to run your code.
+    - Press `Ctrl + B` to run your code
+  + Press `Ctrl + /` to comment out
+  + Press `Ctrl + ]/[` to indent
+  + Press `Ctrl + H` to call __Find And Replace__ function
