@@ -11,3 +11,9 @@ Sublime Text setting
   + [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended#markdown-enhancements)
   + [Kite](https://kite.com/)
   + [Jekyll](https://packagecontrol.io/packages/Jekyll)
+
+# Operation 
+  + `Control + shift + P` to call package
+  + Run Python Program (.py)
+    - Press `Ctrl + Shift + B` and select the build system
+    - Press `Ctrl + B` to run your code.
