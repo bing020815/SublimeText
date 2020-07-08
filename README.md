@@ -19,5 +19,5 @@ Sublime Text setting
     - Press `Ctrl + Shift + B` and select the build system
     - Press `Ctrl + B` to run your code
   + Press `Ctrl + /` to comment out
-  + Press `Ctrl + ]/[` to indent
+  + Press `Ctrl + ]` or `Ctrl + [` to indent
   + Press `Ctrl + H` to call __Find And Replace__ function
