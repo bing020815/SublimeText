@@ -1,9 +1,9 @@
 {
-    "jekyll_posts_path": "/Users/bing0/Github/bing020815.github.io/_posts",
-    "jekyll_drafts_path": "/Users/bing0/Github/bing020815.github.io/_drafts",
-    "jekyll_templates_path": "/Users/bing0/Github/bing020815.github.io/_templates",
+    "jekyll_posts_path": "Users/Bing-Windows/Dropbox/bing020815.github.io/_posts",
+    "jekyll_drafts_path": "Users/Bing-Windows/Dropbox/bing020815.github.io/_drafts",
+    "jekyll_templates_path": "Users/Bing-Windows/Dropbox/bing020815.github.io/_templates",
     "jekyll_auto_find_paths": false,
-    "jekyll_uploads_path": "/Users/bing0/Github/bing020815.github.io/assets",
+    "jekyll_uploads_path": "Users/Bing-Windows/Dropbox/bing020815.github.io/assets",
     "jekyll_uploads_baseurl": "",
     "jekyll_default_markup": "Markdown",
     "jekyll_markdown_extension": "md",
