@@ -15,6 +15,7 @@ Sublime Text setting
 
 # Operation 
   + Press `Ctrl + shift + P` to call package
+    - Need have `Package Control` package in order to install the package mentionded above
   + Run Python Program (.py)
     - Press `Ctrl + Shift + B` and select the build system
     - Press `Ctrl + B` to run your code
